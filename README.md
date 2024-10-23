@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Report and SQL Analysis
+# Pizza Sales Report and SQL Analysis🍕
 
 This repository contains a **Power BI dashboard** and an accompanying **PowerPoint presentation** that collectively analyze pizza sales data, providing valuable insights into business performance metrics such as revenue, order trends, and pizza category sales. These resources are designed for stakeholders to make data-driven decisions based on comprehensive, visual analytics.
 
